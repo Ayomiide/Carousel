@@ -17,6 +17,7 @@
     position: absolute;
     inset: 0;
     opacity: 0;
+    transition: 200ms opacity ease-in-out;
 }
 .slide  img {
     display: block;
